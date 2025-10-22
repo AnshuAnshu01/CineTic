@@ -5,7 +5,7 @@ import { ArrowRightIcon } from 'lucide-react';
 
 // Logos
 import inoxLogo from '../assets/inox.png';
-import pvrLogo from '../assets/pvr.png';
+import pvrLogo from '../assets/PVR.png';
 import keshariLogo from '../assets/keshari.png';
 import mitraLogo from '../assets/mitra.png';
 import cinepolisLogo from '../assets/cinepolis.png';
